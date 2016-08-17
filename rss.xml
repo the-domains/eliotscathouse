@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Eliot's Cat House]]></title>
         <description><![CDATA[Eliot's Cat House]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eliotscathouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 17:23:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 17:32:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eliotscathouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79340b1f-9656-4c45-b760-c62ea37ae380.png">]]></description>
-            <link>undefined7eaa6324-4688-4a2e-a9ad-bfd79fbbbd76/index.html</link>
+            <link>https://thegrid.ai/eliotscathouse/7eaa6324-4688-4a2e-a9ad-bfd79fbbbd76/index.html</link>
             <guid isPermaLink="false">7eaa6324-4688-4a2e-a9ad-bfd79fbbbd76</guid>
-            <pubDate>Wed, 17 Aug 2016 17:23:16 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 17:32:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
